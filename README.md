@@ -1,3 +1,3 @@
 # Demo
 
-This is not funny 
+This is not funny!
